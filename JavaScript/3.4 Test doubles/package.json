@@ -1,0 +1,11 @@
+{
+  "name": "qa-calculator",
+  "version": "1.0.0",
+  "description": "Lab 4.5 - Test doubles",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}

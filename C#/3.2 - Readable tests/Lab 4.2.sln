@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QACalculator", "QACalculator\QACalculator.csproj", "{DC0A0369-BE80-499A-BF50-9652D4E68B7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{3653302B-4331-41A4-923F-D90210CDF9C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC0A0369-BE80-499A-BF50-9652D4E68B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC0A0369-BE80-499A-BF50-9652D4E68B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC0A0369-BE80-499A-BF50-9652D4E68B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC0A0369-BE80-499A-BF50-9652D4E68B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3653302B-4331-41A4-923F-D90210CDF9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3653302B-4331-41A4-923F-D90210CDF9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3653302B-4331-41A4-923F-D90210CDF9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3653302B-4331-41A4-923F-D90210CDF9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB1E25DD-03CB-466B-947C-52847439D7FB}
+	EndGlobalSection
+EndGlobal

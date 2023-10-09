@@ -1,0 +1,6 @@
+# Java build-related folders
+
+.settings/
+.metadata/
+bin/
+target/

@@ -1,0 +1,7 @@
+# Visual Studio files and folders that should be left out of Git...
+
+.vs/
+packages/
+bin/
+obj/
+*.user

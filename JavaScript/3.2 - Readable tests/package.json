@@ -1,0 +1,16 @@
+{
+  "name": "calculator-project",
+  "version": "1.0.0",
+  "description": "Lab 4.2",
+  "main": "Calculator.js",
+  "scripts": {
+    "test": "mocha ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.2.0"
+  }
+}
